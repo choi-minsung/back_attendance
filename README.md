@@ -2,6 +2,10 @@
 
 ---
 
+# This repository contains only the code developed by me among the projects I worked as a team leader.
+
+---
+
 ## Using Database MySQL
 
 Go to '.../app/main/' path and open 'config.py' file
