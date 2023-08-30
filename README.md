@@ -2,7 +2,7 @@
 
 ---
 
-# This repository contains only the code developed by me among the projects I worked as a team leader.
+# This repository is a compliation of projects I worked as a team leader. It only contains codes written by myself  regarding security issues.
 
 ---
 
